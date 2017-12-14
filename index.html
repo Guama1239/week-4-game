@@ -19,21 +19,34 @@
         <p>The value of each crystal is hidden from you until you click on it.</p><br>
         <p>Each time when the game starts, the game will change the vaues of each crystal.</p><br>
     </div>
-    <div class ="randomnumber"> randomnumber</div>
+    <div class ="randomnumber">
+        <p id="number">number: </p>
+    </div>
     <div class ="tables"
-        <p>You</p><br>
-        <p>Wins:</p><br>
-        <p>Losses:</p><br>
+        <p id="You">You: </p><br>
+        <p id="Wins">Wins: </p><br>
+        <p id="Losses">Losses:</p><br>
     </div>
     <div class = "clearfix"></div>
-    <div>
-        <div class = "RubyRed"></div>
-        <div class = "Diamond"></div>
-        <div class = "RubyYellow"></div>
-        <div class = "GreenCrystal"></div>
-    </div>
+    <!--<div>!-->
+        <div class = "RubyRed">
+            <img src="assets/images/rubyred.jpg" id="RubyRed">
+        </div>
+        <div class = "Diamond">
+            <img src="assets/images/diamond.png" id="Diamond">
+        </div>
+        <div class = "RubyYellow">
+            <img src="assets/images/rubyyellow.jpg" id="RubyYellow">
+        </div>
+        <div class = "GreenCrystal">
+            <img src="assets/images/greencrystal.jpg" id="GreenCrystal">
+        </div>
+    <!--</div>!-->
     <div class = "clearfix"></div>
-    <div class = "totalscore"> Your total score is: </div>
+    <br><br><br><br><br><br><br><br><br><br><br><br>
+    <div class = "totalscore"> <p id="TOSC">Your total score is: </p></div>
     <div class = "Accumulator"> </div>
 </body>
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+<script type="text/javascript" src="assets/javascript/game.js"> </script>
 </html>

@@ -1,6 +1,6 @@
 body{
     background-color: lightblue;
-    width:500px;
+    /*width:500px;*/
     /*margin: 0 auto;*/
 }
 
@@ -25,7 +25,7 @@ body{
     margin-left: 8px;
     margin-bottom: 10px;
     width: 420px;
-    height: 350px;
+    height: 300px;
 }
 
 .randomnumber {
@@ -56,4 +56,50 @@ body{
 
 .clearfix {
     clear: both;
+}
+
+.RubyRed {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    }
+
+.Diamond {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left:200px;
+    margin-bottom: 10px;
+    }
+
+.RubyYellow {
+    float: left;
+    width: 50px;
+    height: 50px;
+    margin-left:210px;
+    margin-bottom: 10px;
+   }
+
+.GreenCrystal {
+float: left;
+width: 50px;
+height: 50px;
+margin-left:210px;
+margin-bottom: 10px;
+   }
+
+.totalscore {
+    clear: both;
+    padding:10px;
+    float: left;
+    background-color: green;
+    color: blue;
+    margin-left: 8px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 250px;
+    height:50px;
 }
