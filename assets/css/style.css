@@ -1,0 +1,59 @@
+body{
+    background-color: lightblue;
+    width:500px;
+    /*margin: 0 auto;*/
+}
+
+.title {
+    padding:10px;
+    background-color: orangered;
+    color: beige;
+    margin-bottom: 10px;
+    margin-left: 8px;
+    width:199px;
+    height:50px;
+    margin-top: 20px;
+    font-size:  20px;
+}
+
+.instructions {
+    padding: 10px;
+    background-color: beige;
+    color: green;
+    font-size: 18px;
+    margin-top: 10px;
+    margin-left: 8px;
+    margin-bottom: 10px;
+    width: 420px;
+    height: 350px;
+}
+
+.randomnumber {
+    padding:10px;
+    float: left;
+    background-color: green;
+    color: blue;
+    margin-left: 8px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 150px;
+    height:100px; 
+}
+
+.tables {
+    padding:10px;
+    float: left;
+    background-color: beige;
+    color: blue;
+    margin-left: 8px;
+    font-size: 15px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    width: 100px;
+    height:100px; 
+}
+
+.clearfix {
+    clear: both;
+}
