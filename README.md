@@ -11,7 +11,7 @@ Education
 ---------
 
 2017-2018 
-:   **Coding Boot Camp**: Northwestern University
+:   **Northwestern University**: Coding Boot Camp
 
 Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
 
@@ -44,7 +44,7 @@ Originating mortgage loans with the highest standards of integrity. Emphasizing 
 
 Consulting on sale and purchase of residential properties with the combined knowledge to support homebuyers and homeowners to buy or sale at fair market values. Actively seeking for down payment program assistance to help first time homebuyers.
 
-Besides my diverse industry background :
+About Me:
 ----------------------------------------
 
 * Languages:
