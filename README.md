@@ -4,8 +4,7 @@ Luis Rosales
 ============
 
 -------------------     ----------------------------
-guama1239@gmail.com   [link](https://guama1239.github.io)
-[link](www.linkedin.com/in/luisrosales1239) 312.719.6340
+guama1239@gmail.com - https://guama1239.github.io - www.linkedin.com/in/luisrosales1239 - 312.719.6340
 -------------------     ----------------------------
 
 Education
