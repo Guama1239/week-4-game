@@ -11,7 +11,8 @@ Education
 ---------
 
 2017-2018 
-:   **Coding Boot Camp**; Northwestern University
+:   **Coding Boot Camp**: Northwestern University
+
 Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
 
 Technical Experience
@@ -26,7 +27,7 @@ Skills
 :    •	HTML5, CSS3, JavaScript, JQuery, Bootstrap. •	Express.js, Node.js, React.js. •  MongoDB, Mongoose, MySQL, Sequelize •	Database ORMs for server communication	• 
 Use of HTTP methods for CRUD operations. • MVC design pattern to structure applications.
 
-Experience
+Work Experience
 ----------
 2011 - PRESENT
 **Tax Preparer | Self Employed:**
@@ -41,7 +42,7 @@ Originating mortgage loans with the highest standards of integrity. Emphasizing 
 2005 - 2011
 **Real Estate Agent and Jr. Real Estate Appraiser | Socio Real Estate**
 
-Consulting on sale and purchase of residential properties with the combined knowledge to support homebuyers and homeowner to buy or sale at fair market values. Actively seeking for down payment program assistance to help first time homebuyers.
+Consulting on sale and purchase of residential properties with the combined knowledge to support homebuyers and homeowners to buy or sale at fair market values. Actively seeking for down payment program assistance to help first time homebuyers.
 
 Besides my diverse industry background :
 ----------------------------------------
@@ -50,5 +51,8 @@ Besides my diverse industry background :
 
      * Spanish (native speaker)
      * English
-     
+
+ I am originally from Guatemala, Central America. Since moving to Chicago in the late '90s, I have worked in many different industries and witnessed from the service provider side how techonology, especially software applications have made scalability possible along with accuracy and effectiveness to better service the community.
+
+ From being a licensed public chauffeur (one of the most memorable professions I've had) to supervising the massive parking logistics for the always-busy River North Neighborhood entertainment businesses. On top of that, I've been a tax preparer, investor, mortgage broker, real estate agent and a junior real estate appraiser.    
 
