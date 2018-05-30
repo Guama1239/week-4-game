@@ -12,16 +12,14 @@ Education
 
 2017-2018 
 :   **Coding Boot Camp**; Northwestern University
-
-    Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
+Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
 
 Technical Experience
 --------------------
 
 Summary
 :   
-
-     Web Developer with a diverse industry background and a strong passion for problem solving. Team player with experience in all stages of web development.
+Web Developer with a diverse industry background and a strong passion for problem solving. Team player with experience in all stages of web development.
     
 
 Skills
