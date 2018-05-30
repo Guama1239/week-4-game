@@ -13,7 +13,7 @@ Education
 2017-2018 
 :   **Coding Boot Camp**; Northwestern University
 
-    *Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
+    Intensive Web Immersive Development Program. six-month program that covers both the theory and application of full-stack web development. The curriculum follows the MERN stack, and students gain experience working both individually and as part of a team. Projects are presented formally with live demonstrations.				
 
 Technical Experience
 --------------------
@@ -21,15 +21,12 @@ Technical Experience
 Summary
 :   
 
-    * Web Developer with a diverse industry background and a strong passion for problem solving. Team player with experience in all stages of web development.
+     Web Developer with a diverse industry background and a strong passion for problem solving. Team player with experience in all stages of web development.
     
 
 Skills
-:   * •	HTML5, CSS3, JavaScript, JQuery, Bootstrap.
-•	Express.js, Node.js, React.js
-•	MongoDB, Mongoose, MySQL, Sequelize
-•	Database ORMs for server communication	•	Use of HTTP methods for CRUD operations 
-•	MVC design pattern to structure applications
+:    •	HTML5, CSS3, JavaScript, JQuery, Bootstrap. •	Express.js, Node.js, React.js. •  MongoDB, Mongoose, MySQL, Sequelize •	Database ORMs for server communication	• 
+Use of HTTP methods for CRUD operations. • MVC design pattern to structure applications.
 
 Experience
 ----------
@@ -48,7 +45,7 @@ Originating mortgage loans with the highest standards of integrity. Emphasizing 
 
 Consulting on sale and purchase of residential properties with the combined knowledge to support homebuyers and homeowner to buy or sale at fair market values. Actively seeking for down payment program assistance to help first time homebuyers.
 
-Besides my diverse industry background =>
+Besides my diverse industry background :
 ----------------------------------------
 
 * Languages:
